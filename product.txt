@@ -1,0 +1,50 @@
+0
+wickets withpotatoes
+100
+35
+28
+1
+Sausage in dough
+100
+59
+47.2
+2
+Milk crust
+75
+27
+21.6
+3
+Wicket with millet
+100
+29
+23.2
+4
+apple pie
+60
+27
+21.6
+5
+Sauce with cottage cheese
+110
+68
+54.4
+6
+Pie with potatoes
+75
+25
+20
+7
+Pie withcabbage
+60
+29
+23.2
+8
+Rice and egg pie
+60
+22
+17.6
+9
+Puff pastry with jam
+75
+27
+21.6

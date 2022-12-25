@@ -4,11 +4,13 @@
 #include <iostream>
 #include "product.h"
 #include "list"
+#include "globals.h"
+#include "fstream"
 
 class Shop {
 private:
-    list<Product*> productionRegister;
-    list<Product*>::iterator iterProduction;
+    list<Product*> productRegister;
+    list<Product*>::iterator iterProduct;
 public:
     Shop();
     ~Shop();
